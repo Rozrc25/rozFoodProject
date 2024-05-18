@@ -1,7 +1,7 @@
 <img src="RF-home.png">
 
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="DEMO.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 # To run this you need a backend file as well as MongoDB to send data 
