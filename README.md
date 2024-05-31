@@ -1,9 +1,7 @@
 <img src="RF-home.png">
 #DEMO
-<video width="320" height="240" controls>
-  <source src="DEMO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://drive.google.com/file/d/1w277BA4-gqcUftasD6YGCBeU_PXqB33Y/view?usp=drive_link" target="_blank" title="Link Title">Click To See Demo</a>
+
 # To run this you need a backend file as well as MongoDB to send data 
 <a href="https://github.com/Rozrc25/NewBackend">NewBackEnd</a>
 # Getting Started with Create React App
